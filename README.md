@@ -1,4 +1,4 @@
-### Hello, my name is Sara :)     :sunrise:
+### Hello, my name is Sara :)     
 
 <!--
 **SaraTx-code/SaraTx-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
